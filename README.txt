@@ -18,6 +18,10 @@ This channel driver should work with the folowing UMTS cards:
 * Huawei E175X
 * Huawei K3765
 
+CDMA Dongle (Thanks Oleg Zhabko)
+* ZTE AC8700
+* ZTE AC8710 
+
 Check complete list in:
 http://code.google.com/p/asteris-chan-dongle/wiki/Supported_devices_eng
 
